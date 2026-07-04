@@ -1,4 +1,4 @@
-Trader Performance vs Market Sentiment Analysis
+#Trader Performance vs Market Sentiment Analysis
 Overview
 This project analyzes how Bitcoin market sentiment (Fear/Greed Index) relates to trader behavior and performance on Hyperliquid. Using 211,224 trades from 32 traders across 6 sentiment-classified days, we uncover actionable patterns for smarter trading strategies.
 
